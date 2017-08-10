@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Example test run" duration-ms="18352" started-at="2017-08-10T06:52:51Z" finished-at="2017-08-10T06:53:09Z">
+    <groups>
+    </groups>
+    <test name="Simple Test" duration-ms="18352" started-at="2017-08-10T06:52:51Z" finished-at="2017-08-10T06:53:09Z">
+      <class name="com.google.tests.TestNGFile1">
+        <test-method status="PASS" signature="CheckCurrectPageDisplayed()[pri:0, instance:com.google.tests.TestNGFile1@880ec60]" name="CheckCurrectPageDisplayed" duration-ms="9628" started-at="2017-08-10T12:22:51Z" finished-at="2017-08-10T12:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckCurrectPageDisplayed -->
+      </class> <!-- com.google.tests.TestNGFile1 -->
+      <class name="com.google.tests.TestNGFile2">
+        <test-method status="PASS" signature="CheckWrongPageIsNotDisplayed()[pri:0, instance:com.google.tests.TestNGFile2@7c75222b]" name="CheckWrongPageIsNotDisplayed" duration-ms="8715" started-at="2017-08-10T12:23:00Z" finished-at="2017-08-10T12:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckWrongPageIsNotDisplayed -->
+      </class> <!-- com.google.tests.TestNGFile2 -->
+    </test> <!-- Simple Test -->
+  </suite> <!-- Example test run -->
+</testng-results>

@@ -1,0 +1,23 @@
+<!-- <suite name="TestNG suite" verbose="1">
+	<test name="Group of group Test">
+
+		<classes>
+
+			<class name="com.google.tests.TestNGFile1" />
+	    	<class name="com.google.tests.TestNGFile2" />
+
+
+		</classes>
+	</test>
+</suite>-->
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Example test run">
+  <test name="Simple Test">
+    <classes>
+      <class name="com.google.tests.TestNGFile1"/>
+      <class name="com.google.tests.TestNGFile2"/>
+    </classes>
+  </test>
+</suite>
